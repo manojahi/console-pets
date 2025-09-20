@@ -1,5 +1,8 @@
 # Console Pets 🐾
 
+[![npm version](https://img.shields.io/npm/v/console-pets.svg)](https://www.npmjs.com/package/console-pets)
+[![npm downloads](https://img.shields.io/npm/dm/console-pets.svg)](https://www.npmjs.com/package/console-pets)
+
 > Cute ASCII pets for your console that react to command success/failure
 
 A tiny, delightful library that shows adorable ASCII pets in your terminal. Perfect for adding some fun to your development workflow!
